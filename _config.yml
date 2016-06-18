@@ -1,7 +1,7 @@
 name: Peer Cipriani
 favicon: null
-layout_spectrum: 0.9582752427086234
-typography_spectrum: 0.6240583974868059
+layout_spectrum: 1
+typography_spectrum: 0.3988
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.956441747257486
-  lightness: 0.7156020095571876
-  saturation: 0.3766289211343974
-  rhythmicContrast: 0.609163528541103
+  brandStrength: 0
+  lightness: 0.5625
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
